@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675083331 source:c:\dikry\kuliah\semester 1\dasar pemrograman\uas\wedding plan\weddingplan\main.cpp
+	<iostream>
+	<stdlib.h>
+	<iomanip>
+	<string>
+
